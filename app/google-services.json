@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887000236856",
+    "project_id": "loceatcreatemenumodule",
+    "storage_bucket": "loceatcreatemenumodule.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887000236856:android:fd340f576f6ea37661b7cd",
+        "android_client_info": {
+          "package_name": "com.example.loceatcreatemenumodule1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5b52dyxS8puzwNZsTcOW9YXrlGFO3nYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
